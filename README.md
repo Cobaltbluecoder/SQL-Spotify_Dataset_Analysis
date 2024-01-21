@@ -1,5 +1,3 @@
-
-
 Business task:
 To analyze the dataset and understand the trends in Spotify
 
