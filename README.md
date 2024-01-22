@@ -24,6 +24,7 @@ Business questions:
 19-Identify the tracks with the highest liveness percentage in Spotify playlists.  
 20-Find the tracks with the highest speechiness percentage in Shazam charts.  
 
+Spotify Songs SQL Analysis: This file contains executed SQL queries for analyzing the aforementioned business questions
 
 Tools: MySQL and Excel
 
